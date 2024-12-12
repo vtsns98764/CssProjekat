@@ -23,7 +23,7 @@ div .stranice{
     display: flex;
     text-align: center;
     list-style: none;
-    margin: 1.5% 10%;
+    margin: 2% 10%;
     position:static;
 }
 .stranice li{
@@ -55,7 +55,7 @@ div .stranice{
 #logoZ{
     position: absolute;
     display: block;
-    margin: 3% 33%;
+    margin: 3% 29%;
     height: 300px;
     z-index: 1;
 }
@@ -77,9 +77,9 @@ div .stranice{
     border-radius: 50px;
     padding: 10px 20px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-    margin: 20px 12px;
+    margin: 20px 10px;
     height: 100px;
-    width: 450px;
+    width: 350px;
 }
 
 .prstenje img {
@@ -113,9 +113,9 @@ div .stranice{
     border-radius: 50px;
     padding: 10px 20px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-    margin: 20px 12px;
+    margin: 20px 10px;
     height: 100px;
-    width: 450px;
+    width: 350px;
 }
 
 .ogrlice img {
@@ -149,9 +149,9 @@ div .stranice{
     border-radius: 50px;
     padding: 10px 20px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-    margin: 20px 12px;
+    margin: 20px 10px;
     height: 100px;
-    width: 450px;
+    width: 350px;
 }
 
 .inZlato img {
@@ -185,9 +185,9 @@ div .stranice{
     border-radius: 50px;
     padding: 10px 20px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-    margin: 20px 12px;
+    margin: 20px 10px;
     height: 100px;
-    width: 450px;
+    width: 350px;
 }
 
 .Dukati img {
@@ -236,9 +236,9 @@ div .stranice{
     display: inline-block;
     
     border-radius: 55px;
-    width: 45%;
+    width: 43%;
     background-size: cover;
-    margin: 80px 20px;
+    margin: 80px 25px;
     padding: 30px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
     background-image: url(slike/ng.jpeg);
@@ -259,9 +259,9 @@ div .stranice{
     display: inline-block;
 
     border-radius: 55px;
-    width: 45%;
+    width: 43%;
     background-size: cover;
-    margin: 80px 20px;
+    margin: 80px 25px;
     padding: 30px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
     background-image: url(slike/nk.jpg);
@@ -295,7 +295,7 @@ div .stranice{
 #pInZlato, #pDukati{
     display: inline-block;
     width: 43%;
-    margin: 50px 40px;
+    margin: 50px 25px;
     border: 1px solid black;
 }
 #pInZlato{
@@ -311,21 +311,21 @@ div .stranice{
     font-size: 100px;
     font-weight: bolder;
 }
-#pInZlato .pNaslov, #pDukati .pNaslov{ font-size: 85px;}
+#pInZlato .pNaslov, #pDukati .pNaslov{ font-size: 75px;}
 .proizvod{
     display: inline-block;
-    height: 300px;
-    width: 300px;
+    height: 230px;
+    width: 230px;
     border: 1px solid black;
     border-radius: 20px;
-    margin: 20px 93px;
+    margin: 20px 78px;
     background-size: cover;
 
 }
 .proizvodZ{
     display: inline-block;
-    height: 300px;
-    width: 300px;
+    height: 230px;
+    width: 230px;
     border: 1px solid black;
     border-radius: 20px;
     margin: 20px 50px;
@@ -443,6 +443,7 @@ div .stranice{
 #radnica{
     float: right;
     border-radius: 50px;
+    margin-left: 60px;
 }
 #text{
     text-align: center;
